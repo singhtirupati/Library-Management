@@ -1,4 +1,4 @@
-## Library Mangement
+# Library Mangement
 
 A full stack library management application demonstrating CRUD operation. Implemented using MVC architecture.
 
